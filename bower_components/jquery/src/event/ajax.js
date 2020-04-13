@@ -18,3 +18,4 @@ jQuery.each( [
 } );
 
 } );
+], function( jQuery ) {

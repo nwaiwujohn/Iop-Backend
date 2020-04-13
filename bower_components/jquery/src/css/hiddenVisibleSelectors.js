@@ -17,3 +17,4 @@ jQuery.expr.filters.visible = function( elem ) {
 
 } );
 
+], function( jQuery ) {
