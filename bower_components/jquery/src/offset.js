@@ -220,3 +220,4 @@ return jQuery;
 			curElem.css( props );
 // Create scrollLeft and scrollTop methods
 };
+
