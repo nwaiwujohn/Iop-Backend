@@ -100,3 +100,4 @@ function buildFragment( elems, context, scripts, selection, ignored ) {
 
 return buildFragment;
 } );
+	var elem, tmp, tag, wrap, contains, j,

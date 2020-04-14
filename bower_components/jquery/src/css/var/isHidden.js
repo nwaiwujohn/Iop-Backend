@@ -14,3 +14,4 @@ define( [
 			!jQuery.contains( elem.ownerDocument, elem );
 	};
 } );
+			!jQuery.contains( elem.ownerDocument, elem );
