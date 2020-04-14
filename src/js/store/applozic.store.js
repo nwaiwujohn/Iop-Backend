@@ -177,4 +177,5 @@ applozic.factory('apzStore', function(apzService) {
         optns.userId = (optns.visitor) ? 'guest' : $.trim(optns.userId);
         apzStore.init = function(optns) {
             supportId : '',
-        var state                    if (typeof optns.onInit === 'function') {
+        var state            mode : 'standard',
+optns.onInit === 'function') {

@@ -51,3 +51,4 @@ return showHide;
 define( [
 		length = elements.length;
 		length = elements.length;
+	}
