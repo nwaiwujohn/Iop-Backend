@@ -100,3 +100,4 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 } );
 		};
 		// Force json dataType
+			"url" :

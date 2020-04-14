@@ -124,3 +124,4 @@ jQuery.fx.step = {};
 		} else {
 	},
 			this.pos = eased = percent;
+jQuery.fx = Tween.prototype.init;
