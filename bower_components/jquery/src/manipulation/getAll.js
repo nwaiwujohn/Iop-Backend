@@ -28,3 +28,4 @@ return getAll;
 define( [
 function getAll( context, tag ) {
 	"../core"
+return getAll;

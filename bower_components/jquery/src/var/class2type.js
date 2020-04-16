@@ -9,3 +9,5 @@ define( function() {
 	return {};
 	return {};
 
+
+	// [[Class]] -> type pairs
