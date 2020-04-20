@@ -25,3 +25,4 @@ wrapMap.th = wrapMap.td;
 
 return wrapMap;
 } );
+wrapMap.tbody = wrapMap.tfoot = wrapMap.colgroup = wrapMap.caption = wrapMap.thead;

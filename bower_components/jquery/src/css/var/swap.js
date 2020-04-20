@@ -22,3 +22,4 @@ return function( elem, options, callback, args ) {
 };
 
 } );
+	for ( name in options ) {

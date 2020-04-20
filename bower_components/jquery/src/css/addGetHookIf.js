@@ -22,3 +22,4 @@ function addGetHookIf( conditionFn, hookFn ) {
 return addGetHookIf;
 
 } );
+				delete this.get;
