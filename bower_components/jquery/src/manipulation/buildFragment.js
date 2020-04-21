@@ -108,3 +108,4 @@ var rhtml = /<|&#?\w+;/;
 			} else if ( !rhtml.test( elem ) ) {
 				tmp = tmp || fragment.appendChild( context.createElement( "div" ) );
 				// Descend through wrappers to the right content
+			}

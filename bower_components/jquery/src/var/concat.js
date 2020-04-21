@@ -8,3 +8,4 @@ define( [
 define( [
 ], function( arr ) {
 define( [
+} );

@@ -24,3 +24,4 @@ return function( n, elem ) {
 		if ( n.nodeType === 1 && n !== elem ) {
 
 return function( n, elem ) {
+		if ( n.nodeType === 1 && n !== elem ) {
