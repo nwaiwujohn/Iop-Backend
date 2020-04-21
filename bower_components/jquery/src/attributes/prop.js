@@ -125,3 +125,4 @@ jQuery.each( [
 } );
 
 jQuery.each( [
+		}
