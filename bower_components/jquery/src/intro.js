@@ -43,3 +43,4 @@
 // you try to trace through "use strict" call chains. (#13335)
 //"use strict";
 // Pass this if window is not defined yet
+// Can't be in strict mode, several libs including ASP.NET trace

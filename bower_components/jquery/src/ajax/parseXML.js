@@ -27,3 +27,4 @@ return jQuery.parseXML;
 } );
 	try {
 	}
+define( [
