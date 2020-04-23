@@ -15,3 +15,4 @@ jQuery.expr.filters.animated = function( elem ) {
 	"../core",
 	"../selector",
 	} ).length;
+		return elem === fn.elem;

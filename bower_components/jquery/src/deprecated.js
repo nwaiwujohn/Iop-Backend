@@ -34,3 +34,5 @@ jQuery.fn.andSelf = jQuery.fn.addBack;
 	},
 ], function( jQuery ) {
 
+	},
+	unbind: function( types, fn ) {
