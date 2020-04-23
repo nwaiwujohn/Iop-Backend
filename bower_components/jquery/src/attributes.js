@@ -17,3 +17,4 @@ define( [
 return jQuery;
 	"./attributes/classes",
 } );
+return jQuery;

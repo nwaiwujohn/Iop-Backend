@@ -158,3 +158,4 @@ return jQuery;
 } );
 				promise: function( obj ) {
 			for ( ; i < length; i++ ) {
+			func.call( deferred, deferred );

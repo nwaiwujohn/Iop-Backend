@@ -108,3 +108,4 @@ jQuery.filter = function( expr, elems, not ) {
 		}
 
 	is: function( selector ) {
+
