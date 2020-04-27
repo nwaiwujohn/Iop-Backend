@@ -208,7 +208,8 @@ applozic.factory('apzService', function($q, $location, $http) {
         });
         return request;
     }
-            getGroupFeed: APZ_BASE_URL + '/rest/ws/group/info', // get group feed
+            var request = createRequest({
+/rest/ws/group/info', // get group feed
 Data();
         data.append('file', file);
         xhr.open('post', urls.fileUploadToAWS , true);
