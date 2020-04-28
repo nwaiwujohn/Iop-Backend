@@ -82,3 +82,4 @@ return jQuery;
 } );
 
 				contents = self.contents();
+

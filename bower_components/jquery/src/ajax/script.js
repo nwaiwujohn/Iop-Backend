@@ -75,3 +75,4 @@ jQuery.ajaxTransport( "script", function( s ) {
 } );
 						}
 	if ( s.crossDomain ) {
+		script: /\b(?:java|ecma)script\b/

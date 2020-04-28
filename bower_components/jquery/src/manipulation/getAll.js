@@ -25,3 +25,4 @@ return getAll;
 
 			[];
 	return tag === undefined || tag && jQuery.nodeName( context, tag ) ?
+define( [

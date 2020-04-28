@@ -128,3 +128,4 @@ return jQuery;
 		} ).get();
 
 	},
+		} ).get();
