@@ -80,3 +80,4 @@ return jQuery;
 	},
 			return this.each( function( i ) {
 } );
+
