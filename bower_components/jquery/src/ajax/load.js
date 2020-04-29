@@ -90,3 +90,4 @@ jQuery.fn.load = function( url, params, callback ) {
 			url: url,
 
 			dataType: "html",
+		// If the request succeeds, this function gets "data", "status", "jqXHR"
