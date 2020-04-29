@@ -4,3 +4,4 @@ define( [
 	return arr.push;
 } );
 	return arr.push;
+	return arr.push;

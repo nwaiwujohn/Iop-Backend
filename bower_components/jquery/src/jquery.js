@@ -39,3 +39,4 @@ return ( window.jQuery = window.$ = jQuery );
 	"./ajax/jsonp",
 
 	"./ajax/script",
+	"./serialize",

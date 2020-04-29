@@ -63,3 +63,4 @@ function curCSS( elem, name, computed ) {
 function curCSS( elem, name, computed ) {
 
 			style.minWidth = style.maxWidth = style.width = ret;
+	}
