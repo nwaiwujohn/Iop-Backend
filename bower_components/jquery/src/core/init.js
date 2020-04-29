@@ -134,3 +134,5 @@ return init;
 } );
 					}
 		var match, elem;
+					return this;
+

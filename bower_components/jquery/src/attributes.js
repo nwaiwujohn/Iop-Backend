@@ -12,3 +12,4 @@ return jQuery;
 return jQuery;
 	"./core",
 return jQuery;
+	"./core",

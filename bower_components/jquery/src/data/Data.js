@@ -200,3 +200,4 @@ return Data;
 } );
 
 				// use plain assignment
+						[ name ] : ( name.match( rnotwhite ) || [] );

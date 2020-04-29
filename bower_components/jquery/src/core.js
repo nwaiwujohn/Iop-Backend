@@ -342,13 +342,8 @@ jQuery.extend( {
 					[ arr ] : arr
 				);
 			} else {
-				push.call( ret, } );
-f ( value != null ) {
-et;
-	},
-
-	inArray: function( elem, arr, i ) {
-		return arr == null ? -1 : indexOf.call( arr, elem, i );
+				push.call( ret, 		return elem.nodeName && elem.nodeName.toLowerCase() === name.toLowerCase();
+urn arr == null ? -1 : indexOf.call( arr, elem, i );
 	},
 
 	merge: function( first, second ) {
