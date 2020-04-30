@@ -78,3 +78,4 @@ jQuery.fn.extend( {
 return jQuery;
 } );
 	},
+			return this.each( function( i ) {
