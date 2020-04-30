@@ -15,3 +15,4 @@ define( function() {
 } );
 		// IE throws on elements created in popups
 		if ( !view || !view.opener ) {
+		var view = elem.ownerDocument.defaultView;

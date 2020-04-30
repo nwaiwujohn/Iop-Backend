@@ -27,3 +27,4 @@ jQuery.fn.extend( {
 } );
 	}
 			this.trigger( name );
+		return arguments.length > 0 ?

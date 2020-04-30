@@ -6,3 +6,4 @@ define( [
 	return arr.concat;
 define( [
 define( [
+], function( arr ) {
