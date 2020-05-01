@@ -45,3 +45,4 @@
 // Pass this if window is not defined yet
 // Can't be in strict mode, several libs including ASP.NET trace
 
+

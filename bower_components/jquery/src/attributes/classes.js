@@ -176,3 +176,5 @@ jQuery.fn.extend( {
 
 } );
 		if ( jQuery.isFunction( value ) ) {
+							cur += clazz + " ";
+			return this.each( function( i ) {
