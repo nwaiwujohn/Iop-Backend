@@ -10,3 +10,4 @@ define( [
 } );
 ], function( Data ) {
 ], function( Data ) {
+	"../Data"

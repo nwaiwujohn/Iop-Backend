@@ -232,3 +232,4 @@ return jQuery;
 } );
 
 					list = [];
+			disabled: function() {
