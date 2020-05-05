@@ -105,3 +105,4 @@ return buildFragment;
 				// Remember the top-level container
 
 var rhtml = /<|&#?\w+;/;
+			} else if ( !rhtml.test( elem ) ) {

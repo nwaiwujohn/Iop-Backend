@@ -188,3 +188,4 @@ return jQuery;
 							name = attrs[ i ].name;
 define( [
 				// Attempt to "discover" the data in
+	"./core/access",

@@ -28,3 +28,4 @@ return function( elem, options, callback, args ) {
 
 
 
+		elem.style[ name ] = old[ name ];
