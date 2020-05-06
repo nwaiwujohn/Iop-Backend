@@ -7,3 +7,4 @@ return jQuery;
 }));
 }));
 return jQuery;
+}));
