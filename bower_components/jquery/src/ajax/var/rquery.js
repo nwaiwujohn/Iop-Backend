@@ -8,3 +8,5 @@ define( function() {
 define( function() {
 define( function() {
 define( function() {
+	return ( /\?/ );
+define( function() {

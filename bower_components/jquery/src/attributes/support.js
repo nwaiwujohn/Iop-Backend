@@ -42,3 +42,4 @@ return support;
 	// Support: IE<=11+
 
 } )();
+

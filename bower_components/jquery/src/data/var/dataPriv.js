@@ -13,3 +13,4 @@ define( [
 	"../Data"
 ], function( Data ) {
 ], function( Data ) {
+define( [
