@@ -12,3 +12,4 @@ define( [
 define( [
 	"../../var/pnum"
 	"../../var/pnum"
+define( [

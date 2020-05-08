@@ -9,3 +9,4 @@ define( function() {
 define( function() {
 } );
 } );
+define( function() {

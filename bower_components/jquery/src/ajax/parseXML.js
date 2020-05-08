@@ -32,3 +32,4 @@ define( [
 	}
 	if ( !xml || xml.getElementsByTagName( "parsererror" ).length ) {
 	if ( !xml || xml.getElementsByTagName( "parsererror" ).length ) {
+	"../core"

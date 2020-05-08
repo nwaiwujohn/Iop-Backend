@@ -79,3 +79,4 @@ jQuery.ajaxTransport( "script", function( s ) {
 		};
 						callback = null;
 		script: /\b(?:java|ecma)script\b/
+				script = jQuery( "<script>" ).prop( {
