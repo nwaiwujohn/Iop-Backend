@@ -81,3 +81,4 @@ return jQuery;
 			return this.each( function( i ) {
 } );
 
+				contents = self.contents();

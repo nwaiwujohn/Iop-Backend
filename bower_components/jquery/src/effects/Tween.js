@@ -123,3 +123,4 @@ jQuery.fx.step = {};
 					jQuery.cssHooks[ tween.prop ] ) ) {
 		} else {
 	},
+			this.pos = eased = percent;

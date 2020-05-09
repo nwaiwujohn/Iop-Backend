@@ -25,3 +25,4 @@ return addGetHookIf;
 				delete this.get;
 }
 
+return addGetHookIf;

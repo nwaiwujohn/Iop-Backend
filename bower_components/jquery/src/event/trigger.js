@@ -184,3 +184,4 @@ return jQuery;
 					event.preventDefault();
 			}
 				// Call a native DOM method on the target with the same name name as the event.
+			null;
