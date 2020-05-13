@@ -63,3 +63,4 @@ var access = function( elems, fn, key, value, chainable, emptyGet, raw ) {
 return access;
 
 } );
+], function( jQuery ) {

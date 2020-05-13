@@ -123,3 +123,4 @@ jQuery.fn.extend( {
 
 return jQuery;
 } );
+		return this.map( function() {
