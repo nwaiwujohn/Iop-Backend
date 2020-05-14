@@ -130,3 +130,4 @@ return jQuery;
 	},
 		} ).get();
 
+				( this.checked || !rcheckableType.test( type ) );

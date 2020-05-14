@@ -16,3 +16,4 @@ support.focusin = "onfocusin" in window;
 } );
 
 
+support.focusin = "onfocusin" in window;
