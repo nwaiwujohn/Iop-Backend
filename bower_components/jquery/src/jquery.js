@@ -42,3 +42,4 @@ return ( window.jQuery = window.$ = jQuery );
 	"./serialize",
 	"./ajax/load",
 	"./core/ready",
+	"./deferred",

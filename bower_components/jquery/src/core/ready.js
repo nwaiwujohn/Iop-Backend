@@ -104,3 +104,4 @@ jQuery.ready.promise();
 			return;
 			window.setTimeout( jQuery.ready );
 /**
+}
