@@ -144,3 +144,4 @@ jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) 
 		var name, propName,
 jQuery.fn.extend( {
 define( [
+					// Set corresponding property to false

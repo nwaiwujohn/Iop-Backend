@@ -54,3 +54,4 @@ return jQuery;
 	} );
 				}
 	"./support",
+					doc.removeEventListener( orig, handler, true );
