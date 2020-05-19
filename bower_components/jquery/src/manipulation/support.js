@@ -34,3 +34,5 @@ return support;
 
 	// `name` and `type` must use .setAttribute for WWA (#14901)
 	// Support: IE<=11+
+define( [
+	// `name` and `type` must use .setAttribute for WWA (#14901)

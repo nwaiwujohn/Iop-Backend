@@ -102,3 +102,4 @@ return buildFragment;
 } );
 	var elem, tmp, tag, wrap, contains, j,
 			}
+				// Remember the top-level container
