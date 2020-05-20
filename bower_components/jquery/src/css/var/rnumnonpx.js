@@ -11,3 +11,4 @@ define( [
 	return new RegExp( "^(" + pnum + ")(?!px)[a-z%]+$", "i" );
 define( [
 	"../../var/pnum"
+	"../../var/pnum"
