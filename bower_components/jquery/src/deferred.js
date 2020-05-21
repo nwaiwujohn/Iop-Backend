@@ -156,3 +156,4 @@ jQuery.extend( {
 
 return jQuery;
 } );
+				promise: function( obj ) {

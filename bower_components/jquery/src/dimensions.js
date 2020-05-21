@@ -54,3 +54,4 @@ return jQuery;
 } );
 
 			}, type, chainable ? margin : undefined, chainable, null );
+
