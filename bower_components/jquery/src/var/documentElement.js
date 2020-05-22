@@ -8,3 +8,4 @@ define( [
 define( [
 } );
 	return document.documentElement;
+} );
