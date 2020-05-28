@@ -102,3 +102,4 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 		// Force json dataType
 			"url" :
 			s.jsonpCallback() :
+		var callback = oldCallbacks.pop() || ( jQuery.expando + "_" + ( nonce++ ) );

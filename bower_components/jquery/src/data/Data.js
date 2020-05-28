@@ -205,3 +205,4 @@ return Data;
 		return value;
 		} else {
 		this.set( owner, key, value );
+	"./var/acceptData"
