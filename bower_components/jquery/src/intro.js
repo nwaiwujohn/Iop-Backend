@@ -47,3 +47,4 @@
 
 
 		// This accentuates the need for the creation of a real `window`.
+		// For CommonJS and CommonJS-like environments where a proper `window`

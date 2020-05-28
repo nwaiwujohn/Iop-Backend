@@ -21,3 +21,4 @@ return function( owner ) {
 };
 } );
  * Determines whether an object can have data
+	//    - Node.DOCUMENT_NODE

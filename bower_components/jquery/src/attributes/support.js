@@ -40,3 +40,4 @@ return support;
 	support.radioValue = input.value === "t";
 } );
 	// Support: IE<=11+
+
