@@ -18,3 +18,4 @@ function setGlobalEval( elems, refElements ) {
 
 return setGlobalEval;
 } );
+		l = elems.length;
