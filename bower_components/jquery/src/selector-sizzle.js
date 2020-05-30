@@ -12,3 +12,4 @@ jQuery.isXMLDoc = Sizzle.isXML;
 jQuery.contains = Sizzle.contains;
 
 } );
+jQuery.text = Sizzle.getText;

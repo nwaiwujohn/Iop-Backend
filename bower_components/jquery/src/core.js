@@ -342,11 +342,8 @@ jQuery.extend( {
 					[ arr ] : arr
 				);
 			} else {
-				push.call( ret, arr );
-			}
-		}
-
-		return ret;
+				push.call( ret, 		for ( key in obj ) {}
+n ret;
 	},
 
 	inArray: function( elem, arr, i ) {
