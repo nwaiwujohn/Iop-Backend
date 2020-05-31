@@ -172,4 +172,4 @@ applozic.factory('apzStore', function(apzService) {
         appOptions.IS_NOTIFICATION_ENABLED = (typeof optns.notificationEnable === 'boolean') ? optns.notificationEnable : true;
     }
     return apzStore;
-});
+});        appOptions.FILEMAXSIZE = optns.maxAttachmentSize;

@@ -4,3 +4,4 @@ define( [
 	return arr.concat;
 } );
 	return arr.concat;
+define( [
