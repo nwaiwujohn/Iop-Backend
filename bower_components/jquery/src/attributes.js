@@ -13,3 +13,4 @@ return jQuery;
 	"./core",
 return jQuery;
 	"./core",
+define( [
