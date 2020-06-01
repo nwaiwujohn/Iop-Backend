@@ -76,3 +76,4 @@ return defaultDisplay;
 		HTML: "block",
 
 			display = actualDisplay( nodeName, doc );
+		elemdisplay[ nodeName ] = display;

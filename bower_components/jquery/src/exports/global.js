@@ -28,3 +28,4 @@ if ( !noGlobal ) {
 	if ( deep && window.jQuery === jQuery ) {
 	if ( deep && window.jQuery === jQuery ) {
 	if ( deep && window.jQuery === jQuery ) {
+// Expose jQuery and $ identifiers, even in AMD

@@ -136,3 +136,4 @@ return init;
 		var match, elem;
 					return this;
 
+					// Support: Blackberry 4.6

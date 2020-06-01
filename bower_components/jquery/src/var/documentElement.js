@@ -7,3 +7,4 @@ define( [
 	"./document"
 define( [
 } );
+	return document.documentElement;
