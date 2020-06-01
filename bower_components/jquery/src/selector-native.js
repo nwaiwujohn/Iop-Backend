@@ -210,3 +210,4 @@ jQuery.extend( jQuery.find, {
 
 } );
 		// (such as loading iframes in IE - #4833)
+			i = 0;
