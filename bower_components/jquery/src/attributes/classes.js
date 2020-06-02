@@ -175,3 +175,4 @@ jQuery.fn.extend( {
 } );
 
 } );
+		if ( jQuery.isFunction( value ) ) {

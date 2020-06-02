@@ -185,3 +185,4 @@ jQuery.fn.extend( {
 
 return jQuery;
 } );
+							name = attrs[ i ].name;
