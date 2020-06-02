@@ -126,3 +126,4 @@ jQuery.each( [
 
 jQuery.each( [
 		}
+		"for": "htmlFor",

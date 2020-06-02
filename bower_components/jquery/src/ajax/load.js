@@ -87,3 +87,4 @@ jQuery.fn.load = function( url, params, callback ) {
 			self.each( function() {
 
 			data: params
+			url: url,

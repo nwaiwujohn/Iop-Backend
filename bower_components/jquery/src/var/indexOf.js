@@ -4,3 +4,4 @@ define( [
 	return arr.indexOf;
 } );
 	return arr.indexOf;
+], function( arr ) {

@@ -6,3 +6,4 @@ module.exports = 'ngRoute';
 module.exports = 'ngRoute';
 module.exports = 'ngRoute';
 module.exports = 'ngRoute';
+module.exports = 'ngRoute';
