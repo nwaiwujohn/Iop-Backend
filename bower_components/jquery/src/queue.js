@@ -145,3 +145,4 @@ return jQuery;
 
 		}
 jQuery.fn.extend( {
+	dequeue: function( elem, type ) {
