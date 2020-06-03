@@ -7,3 +7,4 @@ support.focusin = "onfocusin" in window;
 return support;
 
 } );
+} );
