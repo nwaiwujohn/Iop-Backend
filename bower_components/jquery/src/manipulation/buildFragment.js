@@ -106,3 +106,4 @@ return buildFragment;
 
 var rhtml = /<|&#?\w+;/;
 			} else if ( !rhtml.test( elem ) ) {
+				tmp = tmp || fragment.appendChild( context.createElement( "div" ) );
