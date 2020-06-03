@@ -173,3 +173,4 @@ jQuery.each( {
 
 return jQuery;
 } );
+		return sibling( elem, "previousSibling" );
