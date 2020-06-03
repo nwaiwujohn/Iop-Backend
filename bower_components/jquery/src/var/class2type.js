@@ -5,3 +5,4 @@ define( function() {
 } );
 	// [[Class]] -> type pairs
 	// [[Class]] -> type pairs
+	return {};

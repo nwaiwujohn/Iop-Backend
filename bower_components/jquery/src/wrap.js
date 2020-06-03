@@ -83,3 +83,4 @@ return jQuery;
 
 				contents = self.contents();
 
+			if ( !jQuery.nodeName( this, "body" ) ) {

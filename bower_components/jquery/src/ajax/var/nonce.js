@@ -5,3 +5,4 @@ define( [
 } );
 	"../../core"
 	return jQuery.now();
+} );

@@ -19,3 +19,4 @@ jQuery.expr.filters.visible = function( elem ) {
 
 ], function( jQuery ) {
 jQuery.expr.filters.hidden = function( elem ) {
+};
