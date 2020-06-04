@@ -13,3 +13,4 @@ define( function() {
 		return view.getComputedStyle( elem );
 	};
 } );
+		// IE throws on elements created in popups
