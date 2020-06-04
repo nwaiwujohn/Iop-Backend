@@ -199,3 +199,4 @@ Data.prototype = {
 return Data;
 } );
 
+				// use plain assignment
