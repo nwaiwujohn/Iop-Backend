@@ -24,3 +24,4 @@ return jQuery.fn.delay;
 jQuery.fn.delay = function( time, type ) {
 		hooks.stop = function() {
 	"../effects" // Delay is optional because of this dependency
+	} );

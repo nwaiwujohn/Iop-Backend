@@ -30,3 +30,5 @@ module.exports = function(config) {
 
       '*!(.module|.spec).js',
       'karma-firefox-launcher'
+  });
+    ]
