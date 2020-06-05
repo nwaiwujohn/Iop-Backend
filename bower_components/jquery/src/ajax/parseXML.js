@@ -29,3 +29,4 @@ return jQuery.parseXML;
 	}
 define( [
 	}
+	}

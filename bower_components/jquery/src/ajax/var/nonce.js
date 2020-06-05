@@ -4,3 +4,4 @@ define( [
 	return jQuery.now();
 } );
 	"../../core"
+	return jQuery.now();
