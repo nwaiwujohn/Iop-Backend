@@ -7,3 +7,4 @@ define( [
 define( [
 define( [
 } );
+	return class2type.toString;

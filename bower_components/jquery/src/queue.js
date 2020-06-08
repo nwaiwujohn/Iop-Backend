@@ -144,3 +144,4 @@ return jQuery;
 			jQuery.dequeue( this, type );
 
 		}
+jQuery.fn.extend( {

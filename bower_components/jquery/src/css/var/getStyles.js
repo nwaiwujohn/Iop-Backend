@@ -17,3 +17,4 @@ define( function() {
 		if ( !view || !view.opener ) {
 		var view = elem.ownerDocument.defaultView;
 		// IE throws on elements created in popups
+		return view.getComputedStyle( elem );
