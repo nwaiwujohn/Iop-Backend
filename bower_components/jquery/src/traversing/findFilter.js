@@ -104,3 +104,4 @@ jQuery.filter = function( expr, elems, not ) {
 
 	if ( typeof qualifier === "string" ) {
 }
+			typeof selector === "string" && rneedsContext.test( selector ) ?
