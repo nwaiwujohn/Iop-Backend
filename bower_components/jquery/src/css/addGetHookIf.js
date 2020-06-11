@@ -27,3 +27,4 @@ return addGetHookIf;
 
 return addGetHookIf;
 				delete this.get;
+			if ( conditionFn() ) {
