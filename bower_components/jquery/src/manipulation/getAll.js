@@ -20,3 +20,4 @@ function getAll( context, tag ) {
 return getAll;
 } );
 			context.getElementsByTagName( tag || "*" ) :
+} );

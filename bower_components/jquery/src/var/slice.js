@@ -4,3 +4,4 @@ define( [
 	return arr.slice;
 } );
 } );
+} );

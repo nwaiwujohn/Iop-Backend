@@ -4,3 +4,4 @@ define( [
 	return class2type.toString;
 } );
 	"./class2type"
+define( [
