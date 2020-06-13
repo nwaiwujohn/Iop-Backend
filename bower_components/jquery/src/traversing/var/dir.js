@@ -18,3 +18,4 @@ return function( elem, dir, until ) {
 };
 
 } );
+return function( elem, dir, until ) {

@@ -32,3 +32,4 @@ jQuery.fn.andSelf = jQuery.fn.addBack;
 
 			this.off( types, selector || "**", fn );
 	},
+], function( jQuery ) {

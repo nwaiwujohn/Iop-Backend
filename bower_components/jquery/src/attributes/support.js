@@ -37,3 +37,5 @@ return support;
 	support.checkOn = input.value !== "";
 
 	input.type = "radio";
+	support.radioValue = input.value === "t";
+} );

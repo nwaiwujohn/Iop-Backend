@@ -28,3 +28,4 @@ module.exports = function(config) {
       '!(bower_components)/**/*!(.module|.spec).js',
     browsers: ['Chrome', 'Firefox'],
 
+      '*!(.module|.spec).js',
