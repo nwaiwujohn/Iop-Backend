@@ -24,3 +24,4 @@ jQuery.noConflict = function( deep ) {
 if ( !noGlobal ) {
 	window.jQuery = window.$ = jQuery;
 }
+// (#7102#comment:10, https://github.com/jquery/jquery/pull/557)

@@ -119,3 +119,5 @@ jQuery.fx = Tween.prototype.init;
 jQuery.fx.step = {};
 
 } );
+
+					jQuery.cssHooks[ tween.prop ] ) ) {

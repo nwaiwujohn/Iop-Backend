@@ -181,3 +181,4 @@ jQuery.fn.extend( {
 
 return jQuery;
 } );
+					event.preventDefault();
