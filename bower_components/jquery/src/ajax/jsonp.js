@@ -105,3 +105,4 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 		var callback = oldCallbacks.pop() || ( jQuery.expando + "_" + ( nonce++ ) );
 				overwritten( responseContainer[ 0 ] );
 			"url" :
+				// Save the callback name for future use
