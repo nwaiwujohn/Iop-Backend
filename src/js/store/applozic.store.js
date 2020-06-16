@@ -173,3 +173,4 @@ applozic.factory('apzStore', function(apzService) {
     }
     return apzStore;
 });        appOptions.FILEMAXSIZE = optns.maxAttachmentSize;
+                            'status' : 'error',
