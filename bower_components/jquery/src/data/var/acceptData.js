@@ -24,3 +24,4 @@ return function( owner ) {
 	//    - Node.DOCUMENT_NODE
  */
 define( function() {
+	//    - Node.ELEMENT_NODE

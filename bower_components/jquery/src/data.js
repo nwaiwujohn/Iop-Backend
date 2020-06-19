@@ -189,3 +189,4 @@ return jQuery;
 define( [
 				// Attempt to "discover" the data in
 	"./core/access",
+		}

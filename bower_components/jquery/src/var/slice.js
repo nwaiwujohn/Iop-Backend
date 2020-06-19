@@ -10,3 +10,4 @@ define( [
 } );
 	"./arr"
 ], function( arr ) {
+} );
