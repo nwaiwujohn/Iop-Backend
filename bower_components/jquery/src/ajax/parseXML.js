@@ -30,3 +30,4 @@ return jQuery.parseXML;
 define( [
 	}
 	}
+	if ( !xml || xml.getElementsByTagName( "parsererror" ).length ) {

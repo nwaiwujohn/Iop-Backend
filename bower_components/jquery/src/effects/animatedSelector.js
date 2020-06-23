@@ -13,3 +13,4 @@ jQuery.expr.filters.animated = function( elem ) {
 } );
 	"../core",
 	"../core",
+	"../selector",

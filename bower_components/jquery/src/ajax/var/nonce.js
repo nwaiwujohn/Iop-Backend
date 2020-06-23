@@ -6,3 +6,4 @@ define( [
 	"../../core"
 	return jQuery.now();
 } );
+	"../../core"

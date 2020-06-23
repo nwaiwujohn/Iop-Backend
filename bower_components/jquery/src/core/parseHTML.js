@@ -42,3 +42,4 @@ return jQuery.parseHTML;
 		return [ context.createElement( parsed[ 1 ] ) ];
 
 
+		return [ context.createElement( parsed[ 1 ] ) ];

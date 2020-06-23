@@ -85,3 +85,4 @@ return jQuery;
 
 			if ( !jQuery.nodeName( this, "body" ) ) {
 			}
+		return this.each( function() {

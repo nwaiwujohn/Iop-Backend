@@ -48,3 +48,4 @@ return showHide;
 } );
 
 	for ( index = 0; index < length; index++ ) {
+define( [

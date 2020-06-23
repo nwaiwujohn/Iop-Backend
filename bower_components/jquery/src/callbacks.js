@@ -235,3 +235,4 @@ return jQuery;
 			disabled: function() {
  * Possible options:
 								add( arg );
+	// (we check in cache first)

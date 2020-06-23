@@ -15,3 +15,4 @@ return jQuery;
 	"./core",
 define( [
 return jQuery;
+	"./attributes/classes",
