@@ -3,3 +3,4 @@ define( [
 ], function( class2type ) {
 	return class2type.hasOwnProperty;
 } );
+define( [
