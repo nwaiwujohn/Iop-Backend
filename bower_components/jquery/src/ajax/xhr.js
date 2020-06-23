@@ -165,3 +165,4 @@ jQuery.ajaxTransport( function( options ) {
 } );
 
 } );
+					xhr.setRequestHeader( i, headers[ i ] );

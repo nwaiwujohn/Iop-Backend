@@ -12,3 +12,4 @@ return jQuery.parseJSON;
 
 } );
 
+return jQuery.parseJSON;
