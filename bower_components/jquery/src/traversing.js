@@ -175,3 +175,4 @@ return jQuery;
 } );
 		return sibling( elem, "previousSibling" );
 	prevAll: function( elem ) {
+} );

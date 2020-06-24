@@ -35,3 +35,4 @@ define( [
 return ( window.jQuery = window.$ = jQuery );
 
 } );
+	"./manipulation/_evalUrl",
