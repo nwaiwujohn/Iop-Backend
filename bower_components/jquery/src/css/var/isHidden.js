@@ -20,3 +20,4 @@ define( [
 	"../../core",
 
 ], function( jQuery ) {
+} );

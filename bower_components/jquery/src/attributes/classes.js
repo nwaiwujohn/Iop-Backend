@@ -179,3 +179,4 @@ jQuery.fn.extend( {
 							cur += clazz + " ";
 			return this.each( function( i ) {
 					value.call( this, i, getClass( this ), stateVal ),
+}

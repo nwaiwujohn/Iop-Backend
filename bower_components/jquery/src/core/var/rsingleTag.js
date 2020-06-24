@@ -8,3 +8,4 @@ define( function() {
 
 define( function() {
 } );
+} );

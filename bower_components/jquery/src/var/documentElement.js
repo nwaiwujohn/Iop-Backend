@@ -6,3 +6,4 @@ define( [
 define( [
 	"./document"
 define( [
+} );

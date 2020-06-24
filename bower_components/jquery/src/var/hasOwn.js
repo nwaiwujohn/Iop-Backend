@@ -8,3 +8,4 @@ define( [
 define( [
 	return class2type.hasOwnProperty;
 } );
+define( [
