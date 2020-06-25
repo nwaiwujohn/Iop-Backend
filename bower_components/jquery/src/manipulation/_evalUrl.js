@@ -20,3 +20,4 @@ return jQuery._evalUrl;
 } );
 		// Make this explicit, since user can override this through ajaxSetup (#11264)
 		url: url,
+], function( jQuery ) {
