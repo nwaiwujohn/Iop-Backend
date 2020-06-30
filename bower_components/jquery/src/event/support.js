@@ -9,3 +9,4 @@ return support;
 } );
 } );
 support.focusin = "onfocusin" in window;
+} );

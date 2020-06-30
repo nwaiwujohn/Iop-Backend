@@ -19,3 +19,4 @@ jQuery.each( [
 
 } );
 ], function( jQuery ) {
+define( [

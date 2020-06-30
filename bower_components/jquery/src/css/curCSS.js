@@ -58,3 +58,4 @@ function curCSS( elem, name, computed ) {
 
 return curCSS;
 } );
+} );
