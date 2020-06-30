@@ -6,3 +6,4 @@ define( [
 	"./class2type"
 define( [
 define( [
+} );
