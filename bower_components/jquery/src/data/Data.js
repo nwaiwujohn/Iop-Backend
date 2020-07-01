@@ -201,3 +201,4 @@ return Data;
 
 				// use plain assignment
 						[ name ] : ( name.match( rnotwhite ) || [] );
+		// Since the "set" path can have two possible entry points
