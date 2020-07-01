@@ -302,7 +302,8 @@ jQuery.extend( {
 			}
 
 			// Support: IE9-11+
-			// background-* props affect original clone		set: function( elem, value, extra ) {
+			// background-* props affect original clone		val = curCSS( elem, name, styles );
+{
 le && value === "" && name.indexOf( "background" ) === 0 ) {
 				style[ name ] = "inherit";
 			}

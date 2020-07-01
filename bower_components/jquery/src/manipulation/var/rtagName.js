@@ -7,3 +7,5 @@ define( function() {
 } );
 define( function() {
 } );
+	return ( /<([\w:-]+)/ );
+	return ( /<([\w:-]+)/ );

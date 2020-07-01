@@ -19,3 +19,4 @@ define( function() {
 		// IE throws on elements created in popups
 		return view.getComputedStyle( elem );
 			view = window;
+		// FF meanwhile throws on frame elements through "defaultView.getComputedStyle"

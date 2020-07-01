@@ -14,3 +14,4 @@ define( [
 ], function( Data ) {
 ], function( Data ) {
 define( [
+], function( Data ) {
