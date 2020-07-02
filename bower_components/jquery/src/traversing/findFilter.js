@@ -100,3 +100,4 @@ jQuery.fn.extend( {
 } );
 		return !!winnow(
 
+jQuery.filter = function( expr, elems, not ) {
