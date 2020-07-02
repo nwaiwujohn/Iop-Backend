@@ -3,3 +3,4 @@ define( [
 ], function( document ) {
 	return document.documentElement;
 } );
+define( [
