@@ -16,3 +16,4 @@ return function( owner ) {
 };
 
 } );
+	//    - Node.ELEMENT_NODE
