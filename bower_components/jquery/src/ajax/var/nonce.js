@@ -7,3 +7,4 @@ define( [
 	return jQuery.now();
 } );
 	"../../core"
+	"../../core"

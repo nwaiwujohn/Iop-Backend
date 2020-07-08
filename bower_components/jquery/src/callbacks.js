@@ -238,3 +238,4 @@ return jQuery;
 	// (we check in cache first)
  *					after the list has been fired right away with the latest "memorized"
  *					values (like a Deferred)
+

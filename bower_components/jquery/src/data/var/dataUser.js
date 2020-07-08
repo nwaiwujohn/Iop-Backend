@@ -8,3 +8,4 @@ define( [
 } );
 ], function( Data ) {
 	return new Data();
+define( [
