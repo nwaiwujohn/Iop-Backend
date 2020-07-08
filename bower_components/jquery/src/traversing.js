@@ -176,3 +176,4 @@ return jQuery;
 		return sibling( elem, "previousSibling" );
 	prevAll: function( elem ) {
 } );
+	jQuery.fn[ name ] = function( until, selector ) {

@@ -46,3 +46,4 @@
 // Can't be in strict mode, several libs including ASP.NET trace
 
 
+		// This accentuates the need for the creation of a real `window`.

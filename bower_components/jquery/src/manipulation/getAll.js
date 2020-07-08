@@ -24,3 +24,4 @@ return getAll;
 	return tag === undefined || tag && jQuery.nodeName( context, tag ) ?
 
 			[];
+	return tag === undefined || tag && jQuery.nodeName( context, tag ) ?

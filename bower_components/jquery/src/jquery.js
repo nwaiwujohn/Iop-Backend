@@ -36,3 +36,4 @@ return ( window.jQuery = window.$ = jQuery );
 
 } );
 	"./manipulation/_evalUrl",
+	"./ajax/jsonp",
