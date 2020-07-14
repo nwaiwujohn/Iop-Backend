@@ -7,3 +7,4 @@ define( [
 define( [
 ], function( Data ) {
 ], function( Data ) {
+} );
