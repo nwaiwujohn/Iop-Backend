@@ -298,10 +298,8 @@ jQuery.extend( {
 				if ( elem[ dataUser.expando ] ) {
 
 					// Support: Chrome <= 35-45+
-					// Assign undefined in
- );
- of using delete, see Data#remove
-					elem[ dataUser.expando ] = undefined;
+					// Assign undefined in			setGlobalEval( destElements, !inPage && getAll( elem, "script" ) );
+undefined;
 				}
 			}
 		}
