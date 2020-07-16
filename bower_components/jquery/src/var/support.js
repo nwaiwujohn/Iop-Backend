@@ -6,3 +6,4 @@ define( function() {
 define( function() {
 	return {};
 	return {};
+	return {};
