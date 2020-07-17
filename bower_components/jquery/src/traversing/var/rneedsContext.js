@@ -8,3 +8,4 @@ define( [
 	"../../selector"
 } );
 	"../../selector"
+], function( jQuery ) {
