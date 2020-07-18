@@ -8,3 +8,4 @@ define( function() {
 } );
 define( function() {
 define( function() {
+	return [ "Top", "Right", "Bottom", "Left" ];

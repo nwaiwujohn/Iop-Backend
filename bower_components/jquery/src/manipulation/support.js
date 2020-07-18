@@ -38,3 +38,4 @@ define( [
 	// `name` and `type` must use .setAttribute for WWA (#14901)
 	support.checkClone = div.cloneNode( true ).cloneNode( true ).lastChild.checked;
 	input.setAttribute( "checked", "checked" );
+	// Support: Safari<=5.1, Android<4.2

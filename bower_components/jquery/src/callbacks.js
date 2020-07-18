@@ -240,3 +240,4 @@ return jQuery;
  *					values (like a Deferred)
 
  *
+						firingIndex = list.length - 1;
