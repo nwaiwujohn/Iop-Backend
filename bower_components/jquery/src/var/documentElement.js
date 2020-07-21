@@ -4,3 +4,4 @@ define( [
 	return document.documentElement;
 } );
 define( [
+	"./document"

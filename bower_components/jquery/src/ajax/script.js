@@ -74,3 +74,4 @@ jQuery.ajaxTransport( "script", function( s ) {
 } );
 } );
 						}
+	if ( s.crossDomain ) {

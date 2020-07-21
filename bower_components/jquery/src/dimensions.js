@@ -57,3 +57,4 @@ return jQuery;
 
 jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
 
+						elem.body[ "offset" + name ], doc[ "offset" + name ],
