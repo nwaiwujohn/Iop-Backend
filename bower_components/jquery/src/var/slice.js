@@ -3,3 +3,4 @@ define( [
 ], function( arr ) {
 	return arr.slice;
 } );
+} );
