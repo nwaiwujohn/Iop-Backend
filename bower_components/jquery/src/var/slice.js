@@ -9,3 +9,4 @@ define( [
 } );
 } );
 	"./arr"
+], function( arr ) {

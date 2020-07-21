@@ -176,3 +176,4 @@ applozic.factory('apzStore', function(apzService) {
                             'status' : 'error',
         optns.userId = (optns.visitor) ? 'guest' : $.trim(optns.userId);
         apzStore.init = function(optns) {
+            supportId : '',

@@ -179,3 +179,4 @@ jQuery.each( [ "radio", "checkbox" ], function() {
 		isFunction = jQuery.isFunction( value );
 			// Treat null/undefined as ""; convert numbers to string
 					val :
+					options = elem.options,

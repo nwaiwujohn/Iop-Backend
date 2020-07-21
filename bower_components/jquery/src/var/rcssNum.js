@@ -13,3 +13,4 @@ return new RegExp( "^(?:([+-])=|)(" + pnum + ")([a-z%]*)$", "i" );
 define( [
 return new RegExp( "^(?:([+-])=|)(" + pnum + ")([a-z%]*)$", "i" );
 define( [
+define( [
