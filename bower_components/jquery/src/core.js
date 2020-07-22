@@ -342,7 +342,8 @@ jQuery.extend( {
 					[ arr ] : arr
 				);
 			} else {
-				push.call( ret, 		return elem.nodeName && elem.nodeName.toLowerCase() === name.toLowerCase();
+				push.call( ret, 	isNumeric: function( obj ) {
+.nodeName.toLowerCase() === name.toLowerCase();
 urn arr == null ? -1 : indexOf.call( arr, elem, i );
 	},
 

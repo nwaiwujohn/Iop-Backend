@@ -177,3 +177,4 @@ jQuery.each( [ "radio", "checkbox" ], function() {
 } );
 	rspaces = /[\x20\t\r\n\f]+/g;
 		isFunction = jQuery.isFunction( value );
+			// Treat null/undefined as ""; convert numbers to string
