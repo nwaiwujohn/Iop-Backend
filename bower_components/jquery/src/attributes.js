@@ -14,3 +14,4 @@ return jQuery;
 return jQuery;
 	"./core",
 define( [
+return jQuery;

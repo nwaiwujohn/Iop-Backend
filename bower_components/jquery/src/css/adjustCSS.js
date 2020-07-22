@@ -70,3 +70,4 @@ return adjustCSS;
 		);
 		} while (
 
+		initialInUnit = +initialInUnit || +initial || 0;
