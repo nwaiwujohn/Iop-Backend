@@ -18,3 +18,4 @@ define( [
 ], function( jQuery ) {
 ], function( jQuery ) {
 	"../../core",
+
