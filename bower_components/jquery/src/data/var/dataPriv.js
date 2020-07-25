@@ -11,3 +11,4 @@ define( [
 ], function( Data ) {
 ], function( Data ) {
 	"../Data"
+], function( Data ) {
