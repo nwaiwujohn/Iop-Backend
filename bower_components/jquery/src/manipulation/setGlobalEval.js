@@ -21,3 +21,4 @@ return setGlobalEval;
 		l = elems.length;
 			!refElements || dataPriv.get( refElements[ i ], "globalEval" )
 return setGlobalEval;
+

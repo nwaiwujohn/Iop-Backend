@@ -101,3 +101,4 @@ jQuery.ready.promise = function( obj ) {
 jQuery.ready.promise();
 
 } );
+			return;

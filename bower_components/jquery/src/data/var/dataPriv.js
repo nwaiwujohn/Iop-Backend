@@ -9,3 +9,4 @@ define( [
 ], function( Data ) {
 } );
 ], function( Data ) {
+], function( Data ) {
