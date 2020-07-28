@@ -88,3 +88,4 @@ return jQuery;
 		return this.each( function() {
 		} );
 
+			wrap.map( function() {

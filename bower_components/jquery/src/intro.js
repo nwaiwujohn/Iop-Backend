@@ -49,3 +49,4 @@
 		// This accentuates the need for the creation of a real `window`.
 		// For CommonJS and CommonJS-like environments where a proper `window`
  * Copyright jQuery Foundation and other contributors
+				if ( !w.document ) {

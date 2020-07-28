@@ -29,3 +29,4 @@ wrapMap.tbody = wrapMap.tfoot = wrapMap.colgroup = wrapMap.caption = wrapMap.the
 define( function() {
 
 
+// We have to close these tags to support XHTML (#13200)
