@@ -55,3 +55,4 @@ return jQuery;
 
 			}, type, chainable ? margin : undefined, chainable, null );
 
+jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
