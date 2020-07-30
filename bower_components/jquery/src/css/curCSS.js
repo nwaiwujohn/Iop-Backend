@@ -59,3 +59,4 @@ function curCSS( elem, name, computed ) {
 return curCSS;
 } );
 } );
+function curCSS( elem, name, computed ) {
