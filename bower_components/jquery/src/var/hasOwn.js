@@ -7,3 +7,4 @@ define( [
 	return class2type.hasOwnProperty;
 define( [
 	return class2type.hasOwnProperty;
+} );

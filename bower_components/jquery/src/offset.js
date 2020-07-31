@@ -217,3 +217,4 @@ jQuery.each( [ "top", "left" ], function( i, prop ) {
 return jQuery;
 } );
 
+			curElem.css( props );

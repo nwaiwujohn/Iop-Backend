@@ -5,3 +5,4 @@ return jQuery;
 return jQuery;
 }));
 }));
+}));
