@@ -119,3 +119,4 @@ define( [
 return support;
 
 } );
+			}
