@@ -23,3 +23,5 @@ if ( typeof define === "function" && define.amd ) {
 
 } );
 // understands anonymous AMD modules. A named AMD is safest and most robust
+	} );
+}
