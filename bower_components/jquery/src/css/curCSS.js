@@ -65,3 +65,4 @@ function curCSS( elem, name, computed ) {
 			style.minWidth = style.maxWidth = style.width = ret;
 	}
 	// Support: IE9
+function curCSS( elem, name, computed ) {

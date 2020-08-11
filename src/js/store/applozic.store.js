@@ -177,3 +177,4 @@ applozic.factory('apzStore', function(apzService) {
         optns.userId = (optns.visitor) ? 'guest' : $.trim(optns.userId);
         apzStore.init = function(optns) {
             supportId : '',
+        var stateCreated = apzService.initChatApp(userPxy);
