@@ -233,3 +233,4 @@ return jQuery;
 
 					list = [];
 			disabled: function() {
+ * Possible options:

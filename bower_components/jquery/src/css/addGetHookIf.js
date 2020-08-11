@@ -24,3 +24,4 @@ return addGetHookIf;
 } );
 				delete this.get;
 }
+

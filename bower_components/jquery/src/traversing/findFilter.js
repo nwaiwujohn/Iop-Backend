@@ -102,3 +102,4 @@ jQuery.fn.extend( {
 
 jQuery.filter = function( expr, elems, not ) {
 
+	if ( typeof qualifier === "string" ) {

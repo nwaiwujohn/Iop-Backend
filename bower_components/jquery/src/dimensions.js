@@ -59,3 +59,4 @@ jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
 
 						elem.body[ "offset" + name ], doc[ "offset" + name ],
 
+					// https://github.com/jquery/jquery/pull/764
