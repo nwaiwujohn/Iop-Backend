@@ -10,3 +10,4 @@ define( [
 	return new Data();
 define( [
 	"../Data"
+define( [

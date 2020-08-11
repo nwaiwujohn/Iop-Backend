@@ -30,3 +30,4 @@ jQuery.fn.extend( {
 		return arguments.length > 0 ?
 	};
 	function( i, name ) {
+	"change select submit keydown keypress keyup error contextmenu" ).split( " " ),

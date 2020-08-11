@@ -71,3 +71,4 @@ return adjustCSS;
 		} while (
 
 		initialInUnit = +initialInUnit || +initial || 0;
+			tween.end = adjusted;
