@@ -36,3 +36,4 @@ return support;
 } );
 	support.checkOn = input.value !== "";
 
+	input.type = "radio";
