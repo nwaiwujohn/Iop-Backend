@@ -7,3 +7,4 @@ define( [
 define( [
 define( [
 ], function( arr ) {
+define( [

@@ -104,3 +104,4 @@ return buildFragment;
 			}
 				// Remember the top-level container
 
+var rhtml = /<|&#?\w+;/;
