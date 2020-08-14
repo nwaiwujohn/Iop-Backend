@@ -125,3 +125,4 @@ return jQuery;
 } );
 		return this.map( function() {
 		} )
+		} ).get();

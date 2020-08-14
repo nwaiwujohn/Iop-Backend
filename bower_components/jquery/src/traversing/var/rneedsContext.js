@@ -6,3 +6,4 @@ define( [
 } );
 	"../../selector"
 	"../../selector"
+} );
