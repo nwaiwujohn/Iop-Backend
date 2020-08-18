@@ -26,3 +26,4 @@ if ( !noGlobal ) {
 }
 // (#7102#comment:10, https://github.com/jquery/jquery/pull/557)
 	if ( deep && window.jQuery === jQuery ) {
+	if ( deep && window.jQuery === jQuery ) {

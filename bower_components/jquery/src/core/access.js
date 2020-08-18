@@ -64,3 +64,4 @@ return access;
 
 } );
 ], function( jQuery ) {
+		if ( !jQuery.isFunction( value ) ) {

@@ -17,3 +17,4 @@ jQuery.isXMLDoc = Sizzle.isXML;
 jQuery.uniqueSort = jQuery.unique = Sizzle.uniqueSort;
 
 jQuery.uniqueSort = jQuery.unique = Sizzle.uniqueSort;
+jQuery.isXMLDoc = Sizzle.isXML;

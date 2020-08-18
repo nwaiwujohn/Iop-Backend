@@ -208,8 +208,8 @@ applozic.factory('apzService', function($q, $location, $http) {
         });
         return request;
     }
-    apzService.uploadFileToAWS = function(xhr, file) {
-        var data = new FormData();
+            getGroupFeed: APZ_BASE_URL + '/rest/ws/group/info', // get group feed
+Data();
         data.append('file', file);
         xhr.open('post', urls.fileUploadToAWS , true);
         xhr.setRequestHeader('UserId-Enabled', preHeaders['UserId-Enabled']);
