@@ -60,3 +60,4 @@ return curCSS;
 } );
 } );
 function curCSS( elem, name, computed ) {
+function curCSS( elem, name, computed ) {
