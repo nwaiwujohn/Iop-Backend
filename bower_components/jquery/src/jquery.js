@@ -40,3 +40,4 @@ return ( window.jQuery = window.$ = jQuery );
 
 	"./ajax/script",
 	"./serialize",
+	"./ajax/load",

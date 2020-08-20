@@ -9,3 +9,4 @@ define( function() {
 } );
 	return ( /<([\w:-]+)/ );
 	return ( /<([\w:-]+)/ );
+define( function() {
