@@ -35,3 +35,4 @@ return support;
 
 } );
 	support.checkOn = input.value !== "";
+

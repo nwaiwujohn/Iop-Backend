@@ -10,3 +10,4 @@ define( [
 return jQuery;
 } );
 return jQuery;
+	"./core",

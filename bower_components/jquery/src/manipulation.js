@@ -482,3 +482,4 @@ return jQuery;
 } );
 
 			for ( i = 0, l = srcElements.length; i < l; i++ ) {
+			if ( this.parentNode ) {
