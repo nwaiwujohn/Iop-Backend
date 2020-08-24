@@ -204,3 +204,4 @@ return Data;
 		// Since the "set" path can have two possible entry points
 		return value;
 		} else {
+		this.set( owner, key, value );
