@@ -5,3 +5,4 @@ require('./angular-route');
 require('./angular-route');
 require('./angular-route');
 require('./angular-route');
+require('./angular-route');

@@ -7,3 +7,5 @@ define( function() {
 	// [[Class]] -> type pairs
 	return {};
 	return {};
+	return {};
+
