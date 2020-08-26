@@ -66,3 +66,4 @@ function curCSS( elem, name, computed ) {
 	}
 	// Support: IE9
 function curCSS( elem, name, computed ) {
+	// Support: Opera 12.1x only

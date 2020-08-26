@@ -127,3 +127,4 @@ jQuery.fx.step = {};
 jQuery.fx = Tween.prototype.init;
 
 	"../core",
+	}

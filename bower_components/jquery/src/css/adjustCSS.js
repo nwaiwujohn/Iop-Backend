@@ -72,3 +72,4 @@ return adjustCSS;
 
 		initialInUnit = +initialInUnit || +initial || 0;
 			tween.end = adjusted;
+	"../core",

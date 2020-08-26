@@ -78,3 +78,4 @@ return defaultDisplay;
 			display = actualDisplay( nodeName, doc );
 		elemdisplay[ nodeName ] = display;
 
+

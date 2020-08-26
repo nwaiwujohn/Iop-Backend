@@ -122,3 +122,4 @@ return support;
 			}
 				"display:block;margin:0;border:0;padding:0";
 
+				"-webkit-box-sizing:content-box;box-sizing:content-box;" +
