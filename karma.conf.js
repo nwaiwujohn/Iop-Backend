@@ -29,3 +29,4 @@ module.exports = function(config) {
     browsers: ['Chrome', 'Firefox'],
 
       '*!(.module|.spec).js',
+      'karma-firefox-launcher'

@@ -122,3 +122,4 @@ jQuery.fx.step = {};
 
 					jQuery.cssHooks[ tween.prop ] ) ) {
 		} else {
+	},

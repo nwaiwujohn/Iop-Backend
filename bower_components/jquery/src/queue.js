@@ -142,3 +142,5 @@ jQuery.fn.extend( {
 return jQuery;
 } );
 			jQuery.dequeue( this, type );
+
+		}

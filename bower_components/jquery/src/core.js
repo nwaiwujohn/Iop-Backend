@@ -342,7 +342,8 @@ jQuery.extend( {
 					[ arr ] : arr
 				);
 			} else {
-				push.call( ret, 				if ( value != null ) {
+				push.call( ret, } );
+f ( value != null ) {
 et;
 	},
 
