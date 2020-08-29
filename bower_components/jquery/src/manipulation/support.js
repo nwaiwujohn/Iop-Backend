@@ -32,3 +32,4 @@ return support;
 
 } );
 
+	// `name` and `type` must use .setAttribute for WWA (#14901)
