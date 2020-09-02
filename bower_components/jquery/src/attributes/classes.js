@@ -180,3 +180,4 @@ jQuery.fn.extend( {
 			return this.each( function( i ) {
 					value.call( this, i, getClass( this ), stateVal ),
 }
+				// Otherwise bring back whatever was previously saved (if anything),
