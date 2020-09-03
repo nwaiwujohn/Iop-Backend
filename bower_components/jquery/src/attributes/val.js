@@ -180,3 +180,5 @@ jQuery.each( [ "radio", "checkbox" ], function() {
 			// Treat null/undefined as ""; convert numbers to string
 					val :
 					options = elem.options,
+							( support.optDisabled ?
+			var val;

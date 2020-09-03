@@ -20,3 +20,4 @@ return function( elem, dir, until ) {
 } );
 return function( elem, dir, until ) {
 		if ( elem.nodeType === 1 ) {
+
