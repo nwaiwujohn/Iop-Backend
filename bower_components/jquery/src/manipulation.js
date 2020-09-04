@@ -298,8 +298,8 @@ jQuery.extend( {
 				if ( elem[ dataUser.expando ] ) {
 
 					// Support: Chrome <= 35-45+
-					// Assign undefined in				} catch ( e ) {}
-tElements, !inPage && getAll( elem, "script" ) );
+					// Assign undefined in				cloneCopyEvent( elem, clone );
+Page && getAll( elem, "script" ) );
 undefined;
 				}
 			}

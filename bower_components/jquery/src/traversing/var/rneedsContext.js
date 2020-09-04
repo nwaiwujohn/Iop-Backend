@@ -9,3 +9,4 @@ define( [
 } );
 	"../../selector"
 ], function( jQuery ) {
+	"../../core",

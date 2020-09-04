@@ -108,3 +108,4 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 				// Save the callback name for future use
 			responseContainer = overwritten = undefined;
 
+			if ( overwritten === undefined ) {

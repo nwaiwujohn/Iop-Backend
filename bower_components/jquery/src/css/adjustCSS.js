@@ -73,3 +73,4 @@ return adjustCSS;
 		initialInUnit = +initialInUnit || +initial || 0;
 			tween.end = adjusted;
 	"../core",
+		// Break the loop if scale is unchanged or perfect, or if we've just had enough.
