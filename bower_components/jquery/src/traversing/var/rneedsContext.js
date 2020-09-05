@@ -7,3 +7,4 @@ define( [
 	"../../selector"
 	"../../selector"
 } );
+	"../../selector"

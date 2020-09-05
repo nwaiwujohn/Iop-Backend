@@ -86,3 +86,4 @@ jQuery.fn.load = function( url, params, callback ) {
 	"../core/parseHTML",
 			self.each( function() {
 
+			data: params

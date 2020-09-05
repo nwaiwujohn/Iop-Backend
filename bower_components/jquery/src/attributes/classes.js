@@ -178,3 +178,4 @@ jQuery.fn.extend( {
 		if ( jQuery.isFunction( value ) ) {
 							cur += clazz + " ";
 			return this.each( function( i ) {
+					value.call( this, i, getClass( this ), stateVal ),
