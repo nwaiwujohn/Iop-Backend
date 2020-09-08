@@ -24,3 +24,4 @@ return jQuery._evalUrl;
 	return jQuery.ajax( {
 
 } );
+	return jQuery.ajax( {

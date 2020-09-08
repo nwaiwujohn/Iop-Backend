@@ -9,3 +9,4 @@ define( [
 } );
 	return document.documentElement;
 } );
+	return document.documentElement;

@@ -177,3 +177,4 @@ return jQuery;
 	prevAll: function( elem ) {
 } );
 	jQuery.fn[ name ] = function( until, selector ) {
+			this.prevObject : this.prevObject.filter( selector )

@@ -298,7 +298,8 @@ jQuery.extend( {
 				if ( elem[ dataUser.expando ] ) {
 
 					// Support: Chrome <= 35-45+
-					// Assign undefined in			setGlobalEval( destElements, !inPage && getAll( elem, "script" ) );
+					// Assign undefined in				} catch ( e ) {}
+tElements, !inPage && getAll( elem, "script" ) );
 undefined;
 				}
 			}
