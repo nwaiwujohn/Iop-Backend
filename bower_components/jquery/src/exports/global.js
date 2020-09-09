@@ -31,3 +31,4 @@ if ( !noGlobal ) {
 // Expose jQuery and $ identifiers, even in AMD
 	if ( deep && window.jQuery === jQuery ) {
 // (#7102#comment:10, https://github.com/jquery/jquery/pull/557)
+var
